@@ -1,4 +1,1 @@
 anyadiendo info al ficherico
-function golamundo(){
-
-}
